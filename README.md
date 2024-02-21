@@ -7,4 +7,4 @@ The datapack was originally developed for `1.18.2`, but also works in all newer 
 ## How to install
 After downloading the ZIP file, open it and simply drag and drop the folder inside your ZIP file into your `datapacks` directory in your world directory.
 ## How to use
-After reloading your world the datapack will workon it's own in the background with no further setup required. If you want to toggle the LIVE mode, simply run `/trigger live`.
+After reloading your world the datapack will work on it's own in the background with no further setup required. If you want to toggle the LIVE mode, simply run `/trigger live`.
